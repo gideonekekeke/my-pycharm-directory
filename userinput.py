@@ -14,7 +14,7 @@ num2 = int(input('number of voters on lagos island:'))
 num3 = int(input('number of voters in lagos mainland:'))
 
 
-print('sum of ', num1+ num2 + num3)
+print('sum of ', num1 + num2 + num3)
 
 
 
